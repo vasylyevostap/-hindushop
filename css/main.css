@@ -1,0 +1,28 @@
+body
+    {
+    background: rgba(0,0,0,0.1);
+    background-image:url("img/background1.jpg");
+    
+    }
+    
+a{
+ color:purple; 
+ font-size:35px;
+}
+
+/*div{
+    color:#4628ED; 
+}*/
+
+div{
+     color:rgba(92,66,239,0.9);
+}
+
+#ganesh_text {
+    color: Violet;
+    
+}    
+  /*  background: rgba( 255, 0, 0, 0.5); */
+  
+  
+ 
